@@ -1,9 +1,8 @@
 # Winter Lantern Protection Remover
 
-Makes Aging Untouchables vulnerable to normal attacks while preserving their
-teleport attack.
+Makes Aging Untouchables vulnerable to normal attacks.
 
-The release supports Elden Ring executable version 2.7.1.0. Install the DLL
+The release supports Elden Ring version 1.17.1. Install the DLL
 with an Elden Ring DLL loader.
 
 ## Building
